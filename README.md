@@ -27,16 +27,15 @@ This commands includes
 <BR>
 
 ## Output
-
-<img width="1039" height="903" alt="Screenshot 2025-10-22 185624" src="https://github.com/user-attachments/assets/e6441ddb-b79c-4145-8531-357f75327865" />
-<img width="941" height="520" alt="Screenshot 2025-10-22 185747" src="https://github.com/user-attachments/assets/4bfc126c-1544-4748-9f53-b7fe7de7129c" />
-<img width="826" height="309" alt="Screenshot 2025-10-22 185757" src="https://github.com/user-attachments/assets/00b049d8-1c29-44b9-b8fb-1419b4593353" />
-<img width="385" height="54" alt="Screenshot 2025-10-22 185802" src="https://github.com/user-attachments/assets/bd287a8a-6fc0-4640-87f0-fee8fa5ea2b4" />
-<img width="1129" height="632" alt="Screenshot 2025-10-22 185818" src="https://github.com/user-attachments/assets/2286f891-5fdb-41c9-a9a8-c78d28b85825" />
-<img width="1042" height="795" alt="Screenshot 2025-10-22 185829" src="https://github.com/user-attachments/assets/c722bc2f-ae4d-4735-a51d-3b692f4b2db0" />
-<img width="1235" height="1083" alt="Screenshot 2025-10-22 185902" src="https://github.com/user-attachments/assets/f81cdb7c-5238-4f48-91d4-bc2bfbd20072" />
-<img width="972" height="229" alt="Screenshot 2025-10-22 185912" src="https://github.com/user-attachments/assets/a854158c-348f-4d8d-a8c9-6061b36ff6b0" />
-<img width="1289" height="367" alt="Screenshot 2025-10-22 185922" src="https://github.com/user-attachments/assets/3af3dbc2-a589-403d-9bac-dfa25ce98697" />
+<img width="1628" height="1525" alt="Screenshot 2025-11-18 210733" src="https://github.com/user-attachments/assets/a4c448f8-903d-4166-880a-f3bfd977e6b8" />
+<img width="1748" height="747" alt="Screenshot 2025-11-18 210742" src="https://github.com/user-attachments/assets/5ff92d49-bd53-4102-bd28-b6ea71daa08f" />
+<img width="1450" height="602" alt="Screenshot 2025-11-18 210749" src="https://github.com/user-attachments/assets/dd884c6d-9ac6-4a46-860f-a472f7cc8d82" />
+<img width="1567" height="153" alt="Screenshot 2025-11-18 210756" src="https://github.com/user-attachments/assets/af3f302c-9d51-4089-97b3-e33dc3d4bf01" />
+<img width="2176" height="1194" alt="Screenshot 2025-11-18 210805" src="https://github.com/user-attachments/assets/a9cde2f9-c88c-4898-a4bf-bab8b991484c" />
+<img width="1878" height="1594" alt="Screenshot 2025-11-18 210811" src="https://github.com/user-attachments/assets/cf7eb8e5-0aa7-4005-a6c8-472eeec1d2c0" />
+<img width="2305" height="1737" alt="Screenshot 2025-11-18 210827" src="https://github.com/user-attachments/assets/5bccc54e-b640-427a-aa57-286238312d02" />
+<img width="1856" height="375" alt="Screenshot 2025-11-18 210834" src="https://github.com/user-attachments/assets/d4656844-0c12-4898-bbfa-eaf2e527d3fe" />
+<img width="1999" height="748" alt="Screenshot 2025-11-18 211008" src="https://github.com/user-attachments/assets/94f3259b-a20b-45dd-8207-3f43cbc79623" />
 
 ## Result
 Thus Execution of Network commands Performed 
